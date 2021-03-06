@@ -37,3 +37,11 @@ history - lista los comandos que ingresados anteriormente
 clear - utilizado para limpiar la línea de comandos
 
 htop - usado para monitorear los recursos vitales del sistema o los procesos en tiempo real.
+
+du
+
+stat
+
+file
+
+chown
