@@ -47,3 +47,9 @@ file
 chown
 
 chmod
+
+df -h
+
+kill -9 
+
+ps -aux
