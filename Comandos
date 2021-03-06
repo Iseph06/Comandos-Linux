@@ -45,3 +45,5 @@ stat
 file
 
 chown
+
+chmod
