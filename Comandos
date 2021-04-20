@@ -1,42 +1,42 @@
-pwd - muestra la ruta del directorio de trabajo actual.
+**pwd** - muestra la ruta del directorio de trabajo actual.
 
-cd:
+**cd**:
   cd .. - sirve para ir un directorio hacia atrás
   cd (nombre de la carpeta/ruta) - sirve para ir directamente a la carpeta o ruta en específico
   cd - sirve para ir directamente a la carpeta de inicio.
   
-ls - se usa para ver el contenido de un directorio
+**ls** - se usa para ver el contenido de un directorio
   ls -R listará todos los archivos en los subdirectorios
   ls -a mostrará los archivos ocultos
   ls -al listará los archivos y directorios con información detallada como los permisos, tamaño, proprietario, etc.
   
-cat (nombre del archivo) - crea un nuevo archivo
+**cat** (nombre del archivo) - crea un nuevo archivo
 
-cp - copia los archivos del directorio actual a un directorio diferente.
+**cp** - copia los archivos del directorio actual a un directorio diferente.
   Ejemplo: cp imagen.jpg /home/folder1
   
-mv - su uso principal es mover archivos o  cambiar el nombre de los archivos
+**mv** - su uso principal es mover archivos o  cambiar el nombre de los archivos
   Ejemplo: mv imagen.jpg /home/folder2
            mv nombreviejo.ext nombrenuevo.ext
            
-mkdir - crea un nuevo directorio
+**mkdir** - crea un nuevo directorio
   Ejemplo: mkdir musica
   
-rm - se usa para elminar directorios y el contenido dentro de ellos
+**rm** - se usa para elminar directorios y el contenido dentro de ellos
   rm -r elmina el directorio
   
-touch - permite crear un nuevo archivo en blanco.
+**touch** - permite crear un nuevo archivo en blanco.
   Ejemplo: touch archivo1
   
-sudo - permite realizar tareas que requieren permisos administrativos o raíz
+**sudo** - permite realizar tareas que requieren permisos administrativos o raíz
 
-top - mostrará una lista de los procesos en ejecución y la cantidad de CPU que utiliza cada proceso
+**top** - mostrará una lista de los procesos en ejecución y la cantidad de CPU que utiliza cada proceso
 
-history - lista los comandos que ingresados anteriormente
+**history** - lista los comandos que ingresados anteriormente
 
-clear - utilizado para limpiar la línea de comandos
+**clear** - utilizado para limpiar la línea de comandos
 
-htop - usado para monitorear los recursos vitales del sistema o los procesos en tiempo real.
+**htop** - usado para monitorear los recursos vitales del sistema o los procesos en tiempo real.
 
 du
 
